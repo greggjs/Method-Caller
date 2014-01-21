@@ -32,7 +32,7 @@ int main(int argc, const char * argv[])
     }
     
     cout << "Loading symbol " << argv[2] << "..." << endl;
-    typedef void (*method_t)();
+    typedef int (*method_t)(int);
     
     // reset errors
     dlerror();
@@ -45,8 +45,15 @@ int main(int argc, const char * argv[])
     }
     
     cout << "Performing method " << argv[2] << "..." << endl;
-    method();
-    cout << "Closing lib..." << endl;
+    int result = method((int)(4));
+    /*
+    if (!result) {
+        cerr << "Function did not return an int" << endl;
+        return 1;
+    }
+    */
+    cout << "Result from computation is " << result << endl;
+    cout << endl << "Closing lib..." << endl;
     dlclose(handle);
     
     return 0;

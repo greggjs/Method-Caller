@@ -1,13 +1,14 @@
 //
-//  testFile.cpp
+//  testFile.c
 //  Method-Caller
 //
 //  Created by Jake Gregg on 1/21/14.
 //  Copyright (c) 2014 Parallel and Cloud Computing laboratory. All rights reserved.
 //
 
-#include "testFile.h"
+#include <stdio.h>
 
-extern "C" void hello() {
-    std::cout << "hello" << std::endl;
+int meaningOfLife(int a) {
+    
+    return a + 42;
 }
