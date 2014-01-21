@@ -1,0 +1,108 @@
+TMethod-Caller
+v6
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Objects-normal/x86_64/main.o /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Method-Caller/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Products/Debug/Method-Caller normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005284E52B000000000000044C
+t1384441131
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005284E52B00000000000001DB
+t1384441131
+s475
+
+N/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Objects-normal/x86_64/Method-Caller.LinkFileList
+c0000000052DEC6B80000000000000098
+t1390331576
+s152
+
+N/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Objects-normal/x86_64/main.o
+t1390331577
+s137628
+
+N/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Products/Debug/Method-Caller
+t2
+s0
+
+N/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Method-Caller/main.cpp
+c0000000052DEC60C000000000000021B
+t1390331404
+s539
+
+CBuild AST from /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Method-Caller/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies840f2138fe8eb841^b9182738fe8eb841^---0#1#1#--18"Check dependencies36"929A0A93-1C5F-4EEA-B7A9-7EADFA04ADF9-
+
+CCompileC Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Objects-normal/x86_64/main.o /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Method-Caller/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412024376.154447
+e412024377.051910
+r1
+xCompileC
+xBuild/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Objects-normal/x86_64/main.o
+x/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Method-Caller/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Method-Caller/main.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Method-Caller/main.cpp188"CompileC Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Objects-normal/x86_64/main.o Method-Caller/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerffae2738fe8eb841^274b0d39fe8eb841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Method-Caller/main.cpp0000000000000000^3198"CompileC Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Objects-normal/x86_64/main.o Method-Caller/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Method-Caller-generated-files.hmap -I/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Method-Caller-own-target-headers.hmap -I/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Method-Caller-all-target-headers.hmap -iquote /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Method-Caller-project-headers.hmap -I/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/DerivedSources/x86_64 -I/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/DerivedSources -F/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Products/Debug -MMD -MT dependencies -MF /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Objects-normal/x86_64/main.dia -c /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Method-Caller/main.cpp -o /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Objects-normal/x86_64/main.o36"A7FA516F-8BA6-4B0D-9427-1C3CFD93D84C-
+b2F0CCB75-13CB-4A5C-BAB0-78DE004BD437
+
+CLd /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Products/Debug/Method-Caller normal x86_64
+s412024377.052757
+e412024377.101404
+r1
+xLd
+x/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Products/Debug/Method-Caller
+xnormal
+xx86_64
+d/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Objects-normal/x86_64/Method-Caller.LinkFileList
+d/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Link /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Products/Debug/Method-Caller51"Ld Build/Products/Debug/Method-Caller normal x86_6460930d39fe8eb841^b6f71939fe8eb841^---0#0#1#--1070"Ld Build/Products/Debug/Method-Caller normal x86_64    cd /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Products/Debug -F/Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Products/Debug -filelist /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Objects-normal/x86_64/Method-Caller.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Intermediates/Method-Caller.build/Debug/Method-Caller.build/Objects-normal/x86_64/Method-Caller_dependency_info.dat -o /Users/smartkid1965/Documents/DOC/RESEARCH/Method-Caller/Build/Products/Debug/Method-Caller36"4D03D761-E52F-4D69-AE53-E4997C1F2713-
+b2F0CCB75-13CB-4A5C-BAB0-78DE004BD437
+
